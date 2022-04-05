@@ -1,0 +1,36 @@
+.profil{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;}
+.avatar{
+    background-color: rgb(28, 24, 20);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    align-items: center;
+    justify-content: space-around;
+    height: 550px;
+}
+.avatar_inf{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.profilimg{
+    width: 180px;
+    height: 180px;
+    display: flex;
+}
+.avatarINF{
+    background-color: #14110E;
+    margin: 10px;
+    height: 40px;
+    width: 300px;
+    display: flex;
+    padding: 10px;
+    color: aliceblue;
+}

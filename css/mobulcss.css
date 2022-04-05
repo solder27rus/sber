@@ -1,0 +1,557 @@
+iframe{
+    width: 100%;
+    height: auto;
+}
+img{
+    width: auto;
+    height: auto;
+}
+.buttonreg{
+    width: 100%;
+    height: auto;
+    }
+    .clear{
+        clear: both;
+    }
+    
+    .mesage_error{
+        color: #cc0000;
+    }
+    
+    .success_message{
+        color: green;
+    }
+    
+    .block_for_messages{
+        text-align: center;
+        color: aliceblue;
+    }
+    
+    #auth_block{
+        width: 100%;
+        height: auto;
+    }
+    
+    #auth_block a{
+        width: 100%;
+        height: auto;
+    }
+    
+    #auth_block a:hover{
+        text-decoration: underline;
+    }
+    
+    #link_register{
+        float: left;
+    }
+    
+    #link_auth, #link_logout{
+        float: right;
+    }
+    
+    #link_register a{
+        width: 100%;
+    height: auto;
+    }
+    
+    #link_auth a, #link_logout a{
+        width: 100%;
+        height: auto;
+    }
+    
+    /* Блок с формой регистрации */
+    #form_register, #form_auth{
+        width: 100%;
+        height: auto;
+    }
+    
+    
+    #authorized h2{
+        width: 100%;
+        height: auto;
+    }
+    
+    #scroll_top {
+        width: 100%;
+        height: auto;
+    }
+    #scroll_top:hover {
+         opacity: 1;
+    }
+body{
+    width: 100%;
+    height: auto;
+}
+    @font-face{
+    font-family: "123";
+    src:url("nautilus-normal.otf")}
+.logo{
+    width: 80%;
+    height: auto;
+    
+};
+
+.body{
+    
+    width: 100%;
+    height: auto;
+    
+    
+    
+}
+.all{
+    width: 100%;
+    height: auto;
+}
+.main1{
+    width: 100%;
+    height: auto;
+}
+header{
+    width: 100%;
+    height: auto;
+    margin-left: 25px;
+    margin-right: auto;
+}
+.header{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lefthead{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+
+}
+.headerimg{
+    width: 100%;
+    height: auto;
+}
+.headerimg:hover{
+    width: 100%;
+    height: auto;
+}
+.righthead{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.headmargin{
+    width: 100%;
+    height: auto;
+}
+.headmargin:hover{
+    width: 100%;
+ height: auto;
+}
+
+.main1-all{
+    width: 100%;
+    height: auto;
+   
+}
+
+.main1contenall{
+    
+    width: 100%;
+    height: auto;
+}
+.main1contentb{
+    
+    
+    width: 100%;
+    height: auto;
+}
+.main1h1{
+
+    width: 100%;
+    height: auto;
+}
+.but{
+    width: 100%;
+    height: auto;
+}
+.textinimg{
+    width: 100%;
+    height: auto;
+
+}
+.buttonimg{
+    width: 100%;
+    height: auto;
+
+}
+.buttonbuy{
+
+    }
+    .buttonpr{
+        width: 100%;
+        height: auto;
+        }
+.main2{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+}
+.main2text{
+    width: 100%;
+    height: auto;
+}
+.main2img{
+    width: 100%;
+    height: auto;
+}
+
+.main3{
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+}
+.main3img{
+    width: 100%;
+    height: auto;
+}
+.main30img{
+    width: 100%;
+    height: auto;
+}
+.verticalimg{
+    
+    
+    width: 100%;
+    height: auto;
+    margin: 20px;
+}
+.textmain3{
+    width: 100%;
+    height: auto;
+}
+.main3text{
+    width: 100%;
+    height: auto;
+}
+.imgmain3{
+    width: 100%;
+    height: auto;
+}
+
+.main4{
+    
+    width: 100%;
+    height: auto;
+}
+.main4imgmargin{
+    width: 100%;
+    height: auto;
+}
+.imgmain4{
+    
+    width: 100%;
+    height: auto;
+}
+.main4img2{
+    width: 100%;
+    height: auto;
+    
+}
+.main4text{
+    width: 100%;
+    height: auto;
+    }
+.main4img3{
+    width: 100%;
+    height: auto;
+}
+.imgmain4nobutt{
+    width: 100%;
+    height: auto;
+}
+.main4img1{
+    width: 100%;
+    height: auto;
+}
+
+.main5{
+    width: 100%;
+    height: auto;
+}
+.mainimg5{
+    width: 100%;
+ height: auto;
+}
+.main5content{
+    
+    width: 100%;
+    height: auto;
+}
+.main5text{
+    
+    width: 100%;
+    height: auto;
+}
+.main6{
+    
+    
+    align-items: center;
+    margin: 10px;
+}
+.main6table{
+    border: 0.5px solid rgb(48, 45, 45);
+    
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.main7{
+    
+    align-items: center;
+    flex-direction:column;
+    margin-bottom: 20px;
+}
+.poloska{
+    width: 70px;
+    height: 5px;
+    background-color: #145a2f;
+    margin-left: 5px;
+}
+.main7content1{
+    background-color: #043d1a;
+    
+    
+    margin-right: 25px;
+}
+.main7content{
+    background-color:  #043d1a;
+    
+    padding: 10px;
+}
+
+.maincontent7{}
+
+.main8{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    margin-bottom: 0px;
+}
+.courses{
+    
+    padding: 10px;
+}
+.row{
+    
+    padding: 10px;
+}
+.course-item{
+    padding: 5px;
+}
+.main8img{
+    width: 100%;
+    height: 300px;
+}
+.main8content{
+    width: 100%;
+    height: auto;
+}
+.contentmain8{
+ width: 100%;
+ height: auto;
+}
+.main9{
+    width: 100%;
+    height: auto;
+}
+.main9text{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: 3px;
+    margin-bottom: 3px;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+}
+.main9img{
+    width: 100%;
+    height: auto;
+}
+form{
+    
+    width: 100%;
+    height: auto;
+}
+
+footer{
+    
+    width: 100%;
+    height: auto;
+}
+.textfooter{
+    width: 100%;
+    height: auto;
+}
+.profil{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;}
+.avatar{
+    background-color: rgb(28, 24, 20);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    align-items: center;
+    justify-content: space-around;
+    height: auto;
+}
+.avatar_inf{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.profilimg{
+    width: 180px;
+    height: 180px;
+    display: flex;
+}
+.avatarINF{
+    background-color: #14110E;
+    margin: 10px;
+    height: 40px;
+    width: 300px;
+    display: flex;
+    padding: 10px;
+    color: aliceblue;
+}
+
+
+
+.mainprotable{
+    width: 100%;
+    height: auto;
+}
+.tovar-oplata{
+    width: 100%;
+    height: auto;
+}
+.summa{
+    width: 100%;
+    height: auto;
+}   
+.nomerzakaz{
+    width: 100%;
+    height: auto;
+}
+.data{
+    width: 100%;
+    height: auto;
+}
+.opisanie{
+    width: 100%;
+    height: auto;
+    
+}
+.buttonzakaz{
+    width: 100%;
+    height: auto;
+}
+.buttonzak{
+    width: 100%;
+    height: auto;
+}
+.mainzak9{
+    width: 100%;
+    height: auto;
+}
+.mainzakimg{
+    width: 100%;
+    height: auto;
+}
+.main9text12{
+    width: 100%;
+    height: auto;
+}
+
+
+
+/* //чат */
+.open-button {
+left: 60%;
+  }
+
+  /* Всплывающий чат - скрыт по умолчанию */
+  .chat-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+
+    z-index: 9;
+    left: 3%;
+  }
+  
+  /* Добавление стилей в контейнер формы */
+  .form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+    left: 3%;
+  }
+  
+  /* Полноразмерная текстовая область */
+  .form-container textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+    resize: none;
+    min-height: 200px;
+  }
+  
+  /* Когда текстовая область получит фокус, сделайте что-нибудь */
+  .form-container textarea:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Установите стиль для кнопки отправить/кнопка */
+  .form-container .btn {
+    background-color: #4CAF50;
+    color: black;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+  }
+  
+  /* Добавьте красный цвет фона к кнопке отмена */
+  .form-container .cancel {
+    background-color: red;
+  }
+  
+  /* Добавьте некоторые эффекты наведения на кнопки */
+  .form-container .btn:hover, .open-button:hover {
+    opacity: 1;
+  }
+
+
+
+
+.cartimg{
+    width: 100%;
+    height: auto;
+}
